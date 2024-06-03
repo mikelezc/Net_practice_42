@@ -12,5 +12,9 @@ Aquí dejo las fuentes principales con las cuales he preparado este proyecto.
 
     https://medium.com/@imyzf/netpractice-2d2b39b6cf0a
 
+- Libro Muy recomendable!
+
+    https://book.systemsapproach.org/
+
 Aprobado:
   28 de Mayo de 2024
